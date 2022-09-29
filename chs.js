@@ -294,8 +294,8 @@ var cnPrefix = {
     "Seconds of active game play: ": "活跃游戏的秒数：",
     "Spend shards: ": "花费碎片：",
     "All time earned experience: ": "所有时间获得的经验达到：",
-    "": "",
-    "": "",
+    "Collect shields: ": "收集盾牌：",
+    "Perform manual attacks: ": "执行手动攻击：",
     "": "",
     "": "",
 }
