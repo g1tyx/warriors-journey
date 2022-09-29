@@ -135,7 +135,6 @@ var cnItems = {
     "\t\tBetter looter": "\t\t更好的掠夺者",
     "\t\tCritical hit chance 10%": "\t\t暴击率 10%",
     "\t\tFaster learner": "\t\t更快的学习者",
-    "Critical hit chance 5%": "暴击几率 5%",
     "During a minute you've been away, your hero farmed:": "在你离开的一分钟内，你的英雄耕种：",
     "Experience bonus now 25%.": "经验奖励现在 25%。",
     "Fast learner": "快速学习者",
@@ -296,6 +295,7 @@ var cnPrefix = {
     "All time earned experience: ": "所有时间获得的经验达到：",
     "Collect shields: ": "收集盾牌：",
     "Perform manual attacks: ": "执行手动攻击：",
+    "Critical hit chance ": "暴击几率 ",
     "": "",
     "": "",
 }
