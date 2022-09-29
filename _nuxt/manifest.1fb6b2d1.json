@@ -1,0 +1,54 @@
+{
+  "name": "Warrior's Journey",
+  "short_name": "Warrior's Journey",
+  "description": "Incremental and idle game about one warrior's journey before destination",
+  "icons": [
+    {
+      "src": "../_nuxt/icons/icon_64x64.a98cfb.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../_nuxt/icons/icon_120x120.a98cfb.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../_nuxt/icons/icon_144x144.a98cfb.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../_nuxt/icons/icon_152x152.a98cfb.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../_nuxt/icons/icon_192x192.a98cfb.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../_nuxt/icons/icon_384x384.a98cfb.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../_nuxt/icons/icon_512x512.a98cfb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./?standalone=true",
+  "display": "standalone",
+  "background_color": "#161F28",
+  "theme_color": "#161F28",
+  "lang": "en-GB"
+}
