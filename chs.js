@@ -164,7 +164,7 @@ var cnItems = {
     "Stage": "关卡",
     "You take": "你获得",
     "You must beat stage 50 to ascend": "您必须通过第 50 关才能转生",
-    "": "",
+    "\t\tSubmit\n": "\t\t提交\n",
     "": "",
     "": "",
     "": "",
