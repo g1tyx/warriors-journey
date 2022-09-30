@@ -71,7 +71,7 @@ var cnItems = {
     "Damage you receive is reduced by your defence value.": "你受到的伤害会因你的防御值而减少。",
     "Each upgrade grants +1 to relevant stat. Life is increased by +4 each time. Speed is reduced by a different value depending on upgrade level.": "每次升级都会使相关属性 +1。每次生命增加+4。根据升级级别，速度会降低不同的值。",
     "Exchange shards for unique bonuses.": "交换碎片以获得独特的奖金。",
-    "Note": "笔记",
+    "Note": "注意",
     "Price goes up by +1.": "价格上涨+1。",
     "Receive rewards for your outstanding performance.": "因您的出色表现而获得奖励。",
     "Speed 1XP": "速度 1XP",
