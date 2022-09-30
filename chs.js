@@ -340,7 +340,7 @@ var cnPrefix = {
     "Critical hit chance ": "暴击几率 ",
     "Defeat goblin: ": "击败哥布林: ",
     "\t\tCritical hit chance ": "\t\t暴击率 ",
-    "": "",
+    "Death is just a begining: ": "死亡只是一个开始：",
     "": "",
     "": "",
     "": "",
